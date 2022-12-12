@@ -54,7 +54,8 @@ body{
     background: #999;
   }
   .img-container{
-    float: right;
+    width: 300px;
+    height: 100px;
   }
   @media (max-width: 400px) {
     .articles {
