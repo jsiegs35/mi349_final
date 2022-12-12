@@ -52,10 +52,7 @@ body{
   }
   form{
     background: #999;
-  }
-  .img-container{
-    width: 100px;
-    height: 20px;
+
   }
   @media (max-width: 400px) {
     .articles {
