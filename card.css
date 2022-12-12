@@ -2,7 +2,7 @@ body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
     color: #222;
-    margin-top: 100px;
+    margin-top: 20px;
 }
 
 img {
@@ -55,4 +55,5 @@ h2 {
     background: rgb(96, 154, 189);
       position: sticky;
         top: 0;
+
 }
