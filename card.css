@@ -2,7 +2,7 @@ body {
     background-color: #ccc;
     font-family: Helvetica, sans-serif;
     color: #222;
-    margin-top: 20px;
+    margin-top: 40px;
 }
 
 img {
@@ -51,10 +51,4 @@ h2 {
 .contacts li a img:hover {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
-}
-.sticky{
-    background: rgb(96, 154, 189);
-      position: sticky;
-        top: 0;
-
 }
