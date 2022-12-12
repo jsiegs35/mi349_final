@@ -51,3 +51,8 @@ h2 {
     opacity: 0.5;
     transition: opacity ease-in-out 0.2s;
 }
+.sticky{
+    background: rgb(96, 154, 189);
+      position: sticky;
+        top: 0;
+}
