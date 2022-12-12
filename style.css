@@ -1,6 +1,5 @@
 
 body {
-    background-color:deepskyblue;
     color:black;
 }
 h1 {
@@ -34,28 +33,9 @@ p {
         top: 0;
       
 } 
-
-.articles {
-    display: flex;
-}
 body{
     background: rgb(168, 156, 156);
   }
-  table{
-    background: yellow;
-  }
   section{
     background: #ccc;
-  }
-  article{
-    background: deepskyblue;
-  }
-  form{
-    background: #999;
-
-  }
-  @media (max-width: 400px) {
-    .articles {
-        background-color: green;
-    }
   }
